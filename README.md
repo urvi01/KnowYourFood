@@ -20,7 +20,6 @@ Front End
 
     Angular 
 
-Data Flow Diagram:
 
 ![alt text](https://github.com/urvi01/KnowYourFood/blob/master/Data_Flow_Diagram.JPG)
 
@@ -29,5 +28,9 @@ The software installation procedure is attached in the repository.
 
 Output:
 The interface screenshots are attached in the Output folder within the repository.
+
+![alt text](https://github.com/urvi01/KnowYourFood/blob/master/Output/FarmerSide1.JPG)
+
+![alt text](https://github.com/urvi01/KnowYourFood/blob/master/Output/CustomerSide1.JPG)
 
 
