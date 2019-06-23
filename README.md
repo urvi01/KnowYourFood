@@ -5,12 +5,19 @@ The proposed solution uses the concept of Blockchain, a secure distributed ledge
 At each stage of the Food Supply Chain the authorized personnel at that level adds data in the blockchain by creating a transaction. Currently, the prototype provided connects two major ends, the Farmers or the Producers and the Consumers. The farmer are responsible for entering their Aadhaar information, the retailer to which the food is to be taken, the food item, the seed name,  seed grade, fertilizer name, fertilizer grade and finally the value of the Electrochemical Sensor(ECSensor). If the user, wants to traceback the source of his food, he can do so by entering the Retailer Name, Retailer number and the food item like Rice, Wheat etc. This will provide him with all the logs through which his product has been through along with the Seed grade and the food grade. Even before buying, he can check the history of the product. 
 
 Technology Used:
+
 Ethereum Blockchain
+
     Ganache-cli
+    
     TruffleJS
+    
     Web3js
+    
     MetaMask wallet as a plugin in Chrome browser
+
 Front End
+
     Angular 
   
 Installation:
