@@ -21,7 +21,8 @@ Front End
     Angular 
 
 Data Flow Diagram:
-https://github.com/urvi01/KnowYourFood/blob/master/Data_Flow_Diagram.JPG
+
+![alt text](https://github.com/urvi01/KnowYourFood/blob/master/Data_Flow_Diagram.JPG)
 
 Installation:
 The software installation procedure is attached in the repository.
